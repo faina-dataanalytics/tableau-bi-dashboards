@@ -1,4 +1,4 @@
-Tableau-Dashboard
+**Tableau-Dashboard**
 
 **Projekt 1. Analyse der Nutzeraktivität eines Mobile Games**
 
@@ -49,9 +49,11 @@ Alle Worksheets wurden in einem interaktiven Dashboard zusammengeführt mit folg
   ● Gerätesprache
 Ergebnis: Produkt- und Business-Teams können das Nutzerverhalten eigenständig analysieren, Hypothesen testen und fundierte Entscheidungen zur Spiel- und Monetarisierungsstrategie treffen.
 
-**Projekt 2. Revenue-Analyse eines Produktunternehmens**
-🔹 Projektbeschreibung
 
+
+**Projekt 2. Revenue-Analyse eines Produktunternehmens**
+
+🔹 Projektbeschreibung
 Dieses Projekt konzentriert sich auf den Aufbau business-orientierter Tableau-Dashboards zur Analyse von Umsätzen eines Produktunternehmens.
 Der Fokus liegt auf Revenue, zahlenden Nutzer:innen, ARPPU, Umsatzdynamik, Kohortenanalyse und Executive Dashboards.
 
